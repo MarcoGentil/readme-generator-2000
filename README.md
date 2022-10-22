@@ -12,7 +12,6 @@ step 2:process to create a diferent document, with fs.
 
 step 3:the module need get fs and Inquirer to let Node be able to create the file.
 
-Final result
 
 
 
